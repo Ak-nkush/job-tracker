@@ -1,0 +1,69 @@
+greenhouse:
+  - stripe
+  - airbnb
+  - cloudflare
+
+lever:
+  - spotify
+
+filters:
+  level_words:
+    - intern
+    - internship
+    - trainee
+    - graduate
+    - new grad
+    - early career
+    - junior
+    - associate
+    - entry level
+    - sde 1
+    - sde i
+    - engineer i
+  tech_words:
+    - engineer
+    - developer
+    - software
+    - data
+    - analyst
+    - qa
+    - test
+    - devops
+    - sde
+    - machine learning
+  exclude_words:
+    - senior
+    - sr
+    - lead
+    - staff
+    - principal
+    - manager
+    - director
+    - head
+    - architect
+    - vp
+    - ii
+    - iii
+    - iv
+  india_words:
+    - india
+    - bengaluru
+    - bangalore
+    - hyderabad
+    - pune
+    - mumbai
+    - nagpur
+    - chennai
+    - delhi
+    - gurugram
+    - gurgaon
+    - noida
+    - kolkata
+    - ahmedabad
+  possible_words:
+    - software engineer
+    - developer
+    - data engineer
+    - backend engineer
+    - frontend engineer
+    - full stack
